@@ -1,0 +1,5 @@
+Python 🐍
+NumPy
+Pandas
+Matplotlib (for visualization, if used)
+Scikit-learn (optional for evaluation)
